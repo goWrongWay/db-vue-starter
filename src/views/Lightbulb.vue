@@ -1,7 +1,7 @@
 <template>
     <div>
         <h2>
-            Lightbulb
+            这里是个请求的示例
         </h2>
         <MusicList :list="musicList"></MusicList>
     </div>
